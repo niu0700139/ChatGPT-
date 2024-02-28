@@ -1,0 +1,4 @@
+运行之间应确保本地已经安装了Chrome浏览器
+浏览器不存在或没有正确安装，请尝试重新安装Chrome浏览器
+或者采用以下办法：右键点桌面的Google Chrome图标，再点属性，找到chrome.exe文件的路径，然后打开那个目录，把chrome.exe 连同那个目录下的所有子文件夹和文件，一起拷贝到ChromeGo文件夹下的新建的Browser空文件夹里面，然后重新启动Xray.cmd脚本。
+		
